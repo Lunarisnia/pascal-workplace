@@ -13,4 +13,5 @@ begin
     result := x + y;
 
     writeln(x, ' + ', y, ' = ', result);
+    readln;
 end.
