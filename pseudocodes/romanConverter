@@ -1,0 +1,19 @@
+program romanConverter;
+uses crt;
+var
+    inputNumber: integer;
+
+begin
+    clrscr;
+    write('Masukan angka(1-10): ');
+    readln(inputNumber);
+
+    if (inputNumber = 1) then
+        begin
+            writeln('I');
+        end;
+    // else if (inputNumber == 2) then
+    //     begin
+    //         writeln('II');
+    //     end;
+end.
