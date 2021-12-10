@@ -1,0 +1,31 @@
+Mulai
+a, b, c, d, e, f, g, h  integer
+a  12 + 8
+b  36 - 21
+c  12 * 3
+d  27 + 3 – 4 * 12
+e  ((30 + 3) - 8 ) * 5
+f  a + d
+g  e div a
+h  e mod a
+
+write (a)
+write (b)
+write (c)
+write (d)
+write (e)
+write (f)
+write (g)
+write (h)
+Selesai.
+
+// Nomor 4
+
+a = 20
+b = 15
+c = 36
+d = -18
+e = 125
+f = 2
+g = 62.5
+h = 5

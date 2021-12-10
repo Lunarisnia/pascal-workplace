@@ -1,8 +1,7 @@
 program TextGames;
 
 var
-
-    jawaban : integer;
+    i: integer;
 
 begin
    

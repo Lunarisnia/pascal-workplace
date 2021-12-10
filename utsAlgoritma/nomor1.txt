@@ -1,0 +1,11 @@
+Algoritma adalah metode efektif diekspresikan sebagai rangkaian terbatas dari 
+instruksi-instruksi yang telah didefinisikan dengan baik untuk menyelesaikan sebuah masalah.
+
+contoh: 
+Cara Meminum Obat:
+a. Keluarkan obat dari wadah
+b. Letakkan pada permukaan yang bersih
+c. Siapkan air dengan wadah
+d. Masukan obat kedalam mulut anda
+e. Minum air yang telah disiapkan
+f. Teguk obat berserta air tersebut
