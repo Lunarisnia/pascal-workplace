@@ -1,4 +1,4 @@
-program rioArswendoRachmad_473;
+program searching;
 
 var
     arr: array of integer;
