@@ -60,7 +60,7 @@ begin
     
     for i := 0 to arrLength - 1 do
     begin
-        write('Data ke-', i + 1, ': ');
+        write('Data[', i + 1, '] = ');
         readln(A[i]);
     end;
 
