@@ -157,8 +157,7 @@ begin
         readln(arr[i]);
         A[i] := arr[i];
     end;
-    // selectionSort(arr);
-    writeln('Selection Sort: 2 3 4 7 8 9 10 20');
+    selectionSort(arr);
     insertionSort(arr);
     bubbleSort(true);
     qSort(0, arrLength - 1);
